@@ -137,4 +137,40 @@ margin-top: 44px;
   font-size: 3.10rem;
     line-height: 2.5rem;
 }
+@media  (min-width: 320px) and (max-width:480px)
+  {
+    .namepicdiv
+    {
+      display: block;
+    }
+    .img{
+    margin-right: 120px;
+
+    }
+    .hivasu
+    {
+      font-size: 0.7em;
+     margin-left: 90px;
+    }
+    .det
+    {
+      
+     margin-left: 90px;
+    }
+    .asp
+    {
+       margin-left: 90px;
+    }
+    .about
+    {
+      margin-left: 90px;
+    }
+    .skill
+    {
+       margin-left: 90px;
+    }
+    .resproj{
+ margin-left: 80px;
+    }
+  }
        
